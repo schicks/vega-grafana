@@ -1,6 +1,6 @@
 {
   "name": "vega-grafana",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Add Vega graphs to your grafana dashboard",
   "scripts": {
     "build": "grafana-toolkit plugin:build",

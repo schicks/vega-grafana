@@ -1,0 +1,34 @@
+{
+  "type": "panel",
+  "name": "vega",
+  "id": "vega-grafana-panel",
+  "info": {
+    "description": "Add Vega and Vega-Lite graphs to your grafana dashboard",
+    "author": {
+      "name": "Sam Schick",
+      "url": ""
+    },
+    "keywords": [],
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://github.com/schicks/vega-grafana"
+      },
+      {
+        "name": "License",
+        "url": "https://github.com/schicks/vega-grafana/blob/master/LICENSE"
+      }
+    ],
+    "screenshots": [],
+    "version": "0.0.1",
+    "updated": "2020-08-19"
+  },
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}

@@ -1,7 +1,7 @@
 {
   "type": "panel",
   "name": "vega",
-  "id": "vega-grafana",
+  "id": "vega-grafana-panel",
   "info": {
     "description": "Add Vega and Vega-Lite graphs to your grafana dashboard",
     "author": {
